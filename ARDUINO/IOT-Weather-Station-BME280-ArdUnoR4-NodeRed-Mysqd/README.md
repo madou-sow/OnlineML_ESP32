@@ -178,7 +178,7 @@ Figure 9 : Node-RED Dashboard Humidity Variation on the Smartphone
 <div style="text-align: center;">
 <figure >
 <img src="images/unoBME280-2ic-5v50.png" align = "center">
-<figcaption > <b>Figure 1 :</b> Wiring Diagram </figcaption>
+ <b>Figure 1 :</b> Wiring Diagram 
 </figure>
 </div>
 
