@@ -161,22 +161,12 @@ played to users (Dashboard), and systematically cataloged and stored in secure a
 
 ## 7 Illustrations
 
-Figure 1 : Wiring Diagram
-Figure 2 : Reading and Sending Data on the Arduino Serial Port
-Figure 3 : Node-RED Node and Flow Configuration Interface (or Setup Interface)
-Figure 4 : Node-RED Dashboard on the Laptop
-Figure 5 : Node-RED Dashboard Table of Data on the Laptop
-Figure 6 : Node-RED Dashboard Temperature Reading on the Smartphone
-Figure 7 : Node-RED Dashboard Sea-Level Variation on the Smartphone
-Figure 8 : Node-RED Dashboard Atmospheric Pressure Variation on the Smartphone
-Figure 9 : Node-RED Dashboard Humidity Variation on the Smartphone
 
-<div style="text-align: center;">
 <figure >
 <img src="images/unoBME280-2ic-5v50.png" align = "center">
 <figcaption >  <b>Figure 1 :</b> Wiring Diagram </figcaption>
 </figure>
-</div>
+
 
 <div style="text-align: center;">
 <figure >
