@@ -4,11 +4,7 @@ Persistence of Meteorological Data: Implementation of a
 Client-Server System Based on Arduino Uno R4 WiFi,
 BME280 Sensor and the Node-RED/MySQL Platform</h2></center>
 
-<center>
-<bold>Authors:</bold> Mamadou SOW and Christophe CÉRIN<br>
-<bold>Laboratory:</bold> LIPN, Université Sorbonne Paris Nord<br>
-<bold>Date:</bold> November 26, 2025
-</center>
+
 
 
 **Abstract**
@@ -178,7 +174,7 @@ Figure 9 : Node-RED Dashboard Humidity Variation on the Smartphone
 <div style="text-align: center;">
 <figure >
 <img src="images/unoBME280-2ic-5v50.png" align = "center">
- <b>Figure 1 :</b> Wiring Diagram 
+<figcaption >  <b>Figure 1 :</b> Wiring Diagram </figcaption>
 </figure>
 </div>
 
